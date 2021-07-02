@@ -1,7 +1,8 @@
-**See this Live..**
+<h1>See this Live..</h1>
 
-App Hosting Link="https://netflix-clone-634b3.firebaseapp.com/"
-
+<h3>App Hosting Link="https://netflix-clone-634b3.firebaseapp.com/"<h3>
+  
+<b><hr></b>
 
 
 # Getting Started with Create React App
