@@ -1,6 +1,6 @@
 <h1>See this Live..</h1>
 
-<h3>My Netflix-clone Hosting Link="https://netflix-clone-634b3.firebaseapp.com/"<h3>
+<h3>My Netflix-clone Hosted Link="https://netflix-clone-634b3.firebaseapp.com/"<h3>
   
 <b><hr></b>
   
